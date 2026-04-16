@@ -1,6 +1,6 @@
 [project]
 name = "neurogolf"
-version = "0.1.1"
+version = "0.1.2"
 description = "competition for ARC-AGI public training or smthg idk"
 readme = "README.md"
 requires-python = ">=3.14"

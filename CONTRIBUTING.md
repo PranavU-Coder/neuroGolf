@@ -46,3 +46,9 @@ ALSO FOR THE LOVE OF GOD, make sure most if not all variables have **STATIC TYPE
 ## Versioning
 
 Commit only if it is needed, with each feat/fix/chore etc, version in `pyproject.toml` must be bumped accordingly.
+
+## Commit Prefixes
+
+Please include `fix` `feat` `chore` `migration` `docs` etc in accordance to your action, not doing so will have your PR rejected as well.
+
+Please see `git log --oneline` to understand this.
